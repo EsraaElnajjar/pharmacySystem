@@ -1,0 +1,84 @@
+/* homepage.css */
+
+
+
+.homepage h1 {
+  color: #333;
+  margin-right: flex;
+  font-size: 24px;
+}
+
+.homepage hr {
+  border: 1px solid blue;
+}
+
+.hello {
+  font-family: 'ElMessiri-Bold';
+}
+.homepage {
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  max-width: 900px;
+  margin: 0 auto;
+  background-attachment: fixed;
+  padding: 20px;
+}
+.headingHome {
+  display: inline-block;
+  margin-top: 10%;
+}
+
+.side {
+  text-align: right;
+  font-size: 20px;
+}
+
+.homepage p {
+  color: #666;
+}
+
+/* Sidebar Styles */
+.sidebar {
+  margin-top: 20px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  padding: 25px;
+  background-color: #006d86;
+  color: white;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-family: 'ElMessiri-Regular';
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  
+}
+
+
+.sidebar ul li:hover {
+  background-color: #ccc;
+  color: #006d86;
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+.sidebar ul li:first-child:hover { 
+  color: #006d86 !important; 
+}
+
+
+.sidebar ul li span {
+  margin-left: flex;
+}
+.sidebar-link {
+  text-decoration: none; 
+}
+

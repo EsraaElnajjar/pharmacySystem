@@ -1,0 +1,40 @@
+/* StoreList.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    direction: rtl; /* Set the direction to right-to-left */
+    font-family: 'ElMessiri-Regular';
+  }
+  .h2sty{
+    font-family: 'ElMessiri-Bold';
+    text-align: center;
+    margin-top: 2%;
+  }
+  thead {
+    background-color: #f2f2f2;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  .side a {
+    text-decoration: none;
+    color: #333; /* Change link color */
+  }
+  
+  .side a:hover {
+    color: #007bff; /* Change link hover color */
+  }
+  
