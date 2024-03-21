@@ -1,7 +1,5 @@
 ## demonstration video
-<video width="320" height="240" controls>
-  <source src="https://github.com/EsraaElnajjar/pharmacySystem/issues/2#issue-2201233366" type="video/mp4">
-</video>
+
 
 ## 📸 Screenshots
 
